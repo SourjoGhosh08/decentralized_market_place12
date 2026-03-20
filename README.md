@@ -151,7 +151,8 @@ https://lab.stellar.org/smart-contracts/contract-explorer?$=network$id=testnet&l
 
 ---
 
-<img width="1911" height="971" alt="image" src="https://github.com/user-attachments/assets/e2700e18-023c-4c0e-a78b-978be3519dd7" />
+<img width="1047" height="536" alt="image" src="https://github.com/user-attachments/assets/97f3c21f-2444-4273-9bdd-8adab77ab6ce" />
+
 
 ---
 

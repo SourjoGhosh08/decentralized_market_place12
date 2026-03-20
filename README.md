@@ -140,10 +140,19 @@ MIT License (recommended)
 
 ## 📞 Contact
 
-* Developer: (Your Name / Team)
-* Email: ([your@email.com](mailto:your@email.com))
+* Developer: (Sourjo Ghosh)
+* Email: (sourjoghosh90@gmail.com)
 
 ---
+
+Deploy contact link :
+https://lab.stellar.org/smart-contracts/contract-explorer?$=network$id=testnet&label=Testnet&horizonUrl=https:////horizon-testnet.stellar.org&rpcUrl=https:////soroban-testnet.stellar.org&passphrase=Test%20SDF%20Network%20/;%20September%202015;&smartContracts$explorer$contractId=CDQWFRUNMAALWG2L2TH3W6D5XPJ4DFBGC6RH4DJX6EVQ23HXJKCAJS26;;
+<img width="1872" height="941" alt="image" src="https://github.com/user-attachments/assets/18168b14-b5c4-46f9-a24e-3061cb4acd73" />
+
+---
+
+Contract Address:CDQWFRUNMAALWG2L2TH3W6D5XPJ4DFBGC6RH4DJX6EVQ23HXJKCAJS26
+
 
 ## ⚠️ Disclaimer
 
